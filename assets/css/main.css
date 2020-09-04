@@ -3201,3 +3201,29 @@ input, select, textarea {
 			}
 
 	}
+
+	.col-4>span {
+		height:290.00px ;
+		position: relative;
+	}
+	.col-4 span p  {
+		position: absolute;
+  		bottom: 0;
+		margin: 0;
+	}
+
+	.col-4>span {
+		height:290.00px ;
+		position: relative;
+	}
+
+
+	#rails{
+		padding-top: 44px;
+	}
+	#express{
+		padding-top: 100px;
+	}
+	#sql{
+		padding-top: 50px;
+	}
