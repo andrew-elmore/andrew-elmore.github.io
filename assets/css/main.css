@@ -1998,6 +1998,11 @@ input, select, textarea {
 			padding: 0;
 		}
 
+		.box.alt p {
+			width: 200px;
+			text-align: center;
+		}
+
 /* Icon */
 
 	.icon {
@@ -2049,7 +2054,6 @@ input, select, textarea {
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background: url("images/overlay.png");
 			border-radius: 0.35em;
 			content: '';
 			display: block;
